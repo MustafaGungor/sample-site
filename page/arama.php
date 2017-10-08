@@ -1,0 +1,1 @@
+<?php $komut="select * from blog where blog_title like'%".$gelen."%'"; ?>
